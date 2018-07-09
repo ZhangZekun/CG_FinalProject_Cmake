@@ -4,7 +4,7 @@
 
    注意点击configure选择对应VS版本
 
-![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/1.png)
+![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/1.PNG)
 
 
 
@@ -12,17 +12,19 @@
 
    如：
 
-   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/2.png)
+   ​
+
+   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/2.PNG)
 
    拖到新创建的VS项目根目录下，如：
 
-   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/3.png)
+   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/3.PNG)
 
 3. 将Cmake项目根目录下的assimpd.dll
 
    如：
 
-   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/4.png)
+   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/4.PNG)
 
    复制到新建VS项目的DEBUG目录下
 
