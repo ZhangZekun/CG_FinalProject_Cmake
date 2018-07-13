@@ -20,21 +20,20 @@
 
    ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/3.PNG)
 
-3. 将Cmake项目根目录下的assimpd.dll
+
+3. 打开VS项目
+
+   右键ALL_BUILD,点击Build
+
+   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/5.png)
+
+4. 将Cmake项目根目录下的assimpd.dll
 
    如：
 
    ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/4.PNG)
 
    复制到新建VS项目的DEBUG目录下
-
-4. 打开VS项目
-
-   右键ALL_BUILD,点击Build
-
-   ![](https://raw.githubusercontent.com/ZhangZekun/CG_FinalProject_Cmake/master/readmeImg/5.png)
-
-
 
 ​	右键CG_PRO点击Set as StartUp project
 
